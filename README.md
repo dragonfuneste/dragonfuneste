@@ -1,72 +1,96 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/1000x220/8e5bd1/ffffff?text=Welcome+to+my+GitHub" alt="purple bubbles banner"/>
+  <img src="https://via.placeholder.com/1000x240/8e5bd1/ffffff?text=Gregory+Loubet-Bonino" alt="purple bubbles banner" />
 </p>
 
-# 👋 Hi, I'm Grégory Loubet-Bonino (dragonfuneste)
-
-I am a **PhD student in Software Engineering**, passionate about embedded systems, robotics, digital electronics, and intelligent navigation systems.
-
----
-
-## 🎓 About Me
-
-- 🎓 Currently pursuing a **PhD in Software Engineering**
-- 🤖 Specialized in mobile robotics and autonomous navigation  
-- ⚙️ Strong background in embedded development (STM32, Raspberry Pi Pico)  
-- 🔡 Work in **digital design and FPGA programming (VHDL)**  
-- 📏 Experienced with control systems (PID, trajectory control, EKF)  
-- ❤️ I love bridging real-world hardware with intelligent software
+<h1 align="center">Grégory Loubet-Bonino</h1>
+<p align="center">
+  PhD Student in Software Engineering  
+  <br>
+  Embedded Systems · Robotics · Digital Design
+</p>
 
 ---
 
-## 🔬 What I’m Currently Working On
+## 🔹 About Me
 
-My PhD research focuses on **reliable and intelligent systems**, including:
+I am a **PhD student in Software Engineering**, working on robotics, embedded systems, and reliable performance-constrained software.
 
-- ✔ Robust control and navigation for autonomous robots  
-- ✔ Embedded computation under constraints (power, hardware, runtime)  
-- ✔ Software reliability and fault tolerance  
-- ✔ Hardware-accelerated algorithms (FPGAs and systolic designs)  
-- ✔ Improving real-time decision-making with machine learning and Kalman-based estimation
+My background includes:
 
-I aim to combine **robotics, embedded electronics, and AI** to create systems that are both efficient and dependable.
+- Embedded development (STM32, Raspberry Pi)
+- Real-time control and navigation systems
+- FPGA / VHDL digital design
+- Reliable and fault-tolerant systems for constrained hardware
 
----
-
-## 🧠 Skills
-
-### 🔵 Programming
-- C / C++
-- Python
-- VHDL
-- MATLAB
-
-### 🔧 Embedded Targets
-- STM32 microcontrollers  
-- Raspberry Pi / Raspberry Pi Pico  
-- UART / I²C / SPI / PWM
-
-### 🛠 Tools
-- Git / GitHub  
-- KiCad  
-- Vivado / Quartus  
-- Linux systems
+I enjoy bringing together **intelligent algorithms and real-world hardware** to create robust autonomous systems.
 
 ---
 
-## 🚀 Projects
+## 🔹 Research Interests
 
-| Project | Description |
-|--------|-------------|
-| 🤖 Autonomous Robot Platform | Real-time odometry, dynamic navigation, PID control |
-| 📡 Live Telemetry & Visualization | Wireless communication + MATLAB mapping and trajectory plotting |
-| 🔐 AES Implementation in VHDL | MixColumns, SubBytes, RotWord, inverse operations |
-| 🔄 Motor Control System | Encoder-based positioning and real-time speed control |
+My research focuses on:
+
+- **Autonomous robotics**
+- **Embedded real-time control**
+- **Software reliability**
+- **Hardware-software co-design**
+- **FPGA-accelerated computation**
+- **Kalman filtering and estimation algorithms**
 
 ---
 
-## 📊 GitHub Statistics
+## 🔹 Current Research Work
+
+I am currently developing:
+
+### ✔ 1. Autonomous Robot Navigation  
+Real-time trajectory tracking, odometry, obstacle handling, and adaptive control on embedded systems.
+
+### ✔ 2. Real-Time State Estimation  
+Implementation of Extended Kalman Filters to provide reliable estimation on microcontrollers with limited resources.
+
+### ✔ 3. Hardware Acceleration  
+Moving critical computation (estimation, control, or signal processing) onto FPGA fabrics for improved performance and determinism.
+
+### ✔ 4. Fault Tolerance in Embedded Systems  
+Strategies to detect, classify, and mitigate runtime errors in embedded robots without degrading real-time performance.
+
+---
+
+## 🔹 Technical Skills
+
+**Programming:**  
+C · C++ · Python · VHDL · MATLAB
+
+**Embedded Platforms:**  
+STM32 · Raspberry Pi / Pico · UART · I²C · SPI · PWM
+
+**Digital Design:**  
+FPGA (VHDL) · Synthesis · Timing constraints
+
+**Software / Tools:**  
+Git · KiCad · Vivado · Quartus · Linux
+
+---
+
+## 🔹 Selected Projects
+
+- **Autonomous Robot Platform**  
+  Real-time navigation with PID control, encoder feedback, and trajectory planning.
+
+- **Wireless Telemetry & Visualization**  
+  Live robot data transmitted to a computer and plotted in MATLAB.
+
+- **AES Encryption in VHDL**  
+  Hardware implementation featuring SubBytes, MixColumns, RotWord and more.
+
+- **Precision Motor Control**  
+  Encoder-based high-accuracy speed and position regulation.
+
+---
+
+## 🔹 GitHub Activity
 
 <p align="center">
   <img 
@@ -84,13 +108,14 @@ I aim to combine **robotics, embedded electronics, and AI** to create systems th
 
 ---
 
-## 📫 Contact
+## 🔹 Contact
 
-- ✉️ Email: *to be added*  
-- 🔗 LinkedIn: *to be added*
+- 📧 Email: *to be added*  
+- 🔗 LinkedIn: *to be added*  
+- 🌐 Personal / Academic Page: *coming soon*
 
 ---
 
 <p align="center">
-  Thanks for visiting my profile 💜  
+  Thank you for visiting! 💜  
 </p>
