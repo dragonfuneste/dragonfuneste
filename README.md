@@ -7,7 +7,7 @@
 <p align="center">
   PhD Student in Software Engineering  
   <br>
-  Embedded Systems · Robotics · Digital Design
+  Embedded Systems · Robotics · Electronics 
 </p>
 
 ---
@@ -44,17 +44,7 @@ My research focuses on:
 
 I am currently developing:
 
-### ✔ 1. Autonomous Robot Navigation  
-Real-time trajectory tracking, odometry, obstacle handling, and adaptive control on embedded systems.
 
-### ✔ 2. Real-Time State Estimation  
-Implementation of Extended Kalman Filters to provide reliable estimation on microcontrollers with limited resources.
-
-### ✔ 3. Hardware Acceleration  
-Moving critical computation (estimation, control, or signal processing) onto FPGA fabrics for improved performance and determinism.
-
-### ✔ 4. Fault Tolerance in Embedded Systems  
-Strategies to detect, classify, and mitigate runtime errors in embedded robots without degrading real-time performance.
 
 ---
 
@@ -76,17 +66,6 @@ Git · KiCad · Vivado · Quartus · Linux
 
 ## 🔹 Selected Projects
 
-- **Autonomous Robot Platform**  
-  Real-time navigation with PID control, encoder feedback, and trajectory planning.
-
-- **Wireless Telemetry & Visualization**  
-  Live robot data transmitted to a computer and plotted in MATLAB.
-
-- **AES Encryption in VHDL**  
-  Hardware implementation featuring SubBytes, MixColumns, RotWord and more.
-
-- **Precision Motor Control**  
-  Encoder-based high-accuracy speed and position regulation.
 
 ---
 
@@ -110,7 +89,7 @@ Git · KiCad · Vivado · Quartus · Linux
 
 ## 🔹 Contact
 
-- 📧 Email: *to be added*  
+- 📧 Email: loubetgregoryb@gmail.com 
 - 🔗 LinkedIn: *to be added*  
 - 🌐 Personal / Academic Page: *coming soon*
 
